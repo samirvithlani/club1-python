@@ -1,0 +1,6 @@
+array : array is an group of similar kind of data type
+
+list =[] list is a collection which is ordered and changeable. Allows duplicate members.
+tuples()
+set{}
+disct{}

@@ -1,0 +1,2 @@
+1)you need to add sales data of 7 days 3 time per day we are doing sales
+find which day of the week is best for salee
