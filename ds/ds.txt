@@ -4,3 +4,6 @@ list =[] list is a collection which is ordered and changeable. Allows duplicate 
 tuples()
 set{}
 disct{}
+
+tuple:
+tuple is a collection which is ordered and unchangeable. Allows duplicate members.

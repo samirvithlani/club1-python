@@ -1,0 +1,1 @@
+strike =[("ram","row1"),("shyam","row2"),("mohan","row3")]
