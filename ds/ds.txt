@@ -7,3 +7,48 @@ disct{}
 
 tuple:
 tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+
+
+need to create 3 teams each team has 4 members with their respective roles
+roles : batsman,bowler
+
+after adding team members it can not changes
+but user want he can add more teams 
+you need to take run for 2 batsman and wickets for 2 bowlers
+put validation for wickets max 4 wicket can be taken by bowlers
+
+after adding 3 teams you need to show the score board
+
+
+[]
+()
+{}
+{} set
+
+dict ={} -->dict
+x =set()
+
+set:
+set is a collection which is unordered and unindexed. No duplicate members.
+set is mutable
+set is not hashable
+set is not subscriptable
+set is not sliceable print(x[0:2])
+
+list vs set
+list is ordered and set is unordered
+list is mutable and set is mutable
+list is hashable and set is not hashable
+list is subscriptable and set is not subscriptable list[0]
+list is sliceable and set is not sliceable
+list is iterable and set is iterable
+list is indexable and set is not indexable
+list Allows duplicate members and set does not allow duplicate members
+list or set which is faster? and why?
+
+generally the list are faster...
+but in case of searching set is faster beacuse it is hashable
+
+
+
+"""
