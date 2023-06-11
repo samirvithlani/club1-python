@@ -1,4 +1,4 @@
-users = ["ram","neha","parth","priya","ajay"]
+users = ["ram","neha","parth","priya","ajay","naman"]
 # fillist =[]
 
 # for i in users:
@@ -15,4 +15,5 @@ data = [24,45,67,89,90,56,67]
 nl = list(filter(lambda x: x >30 and x % 2==0 ,data))
 print(nl)
 #return palindrome name using filter lambda function
-
+users2 =list(filter(lambda name: name == name[::-1],users))
+print(users2)
