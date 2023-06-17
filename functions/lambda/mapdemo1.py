@@ -25,6 +25,16 @@ months =["jan","feb","mar","apr"]
 m = list(map(list,months))
 print(m)
 
+# users =["ram","raj","parth"]
+#["htrap","jar","mar"]
+#users2 = list(map(lambda x: x[::-1],users))
+#reverse list and reverse string using lambda
+users2 = list(map(lambda x: x[::-1], users[::-1]))
+print(users2)
+
+
+
+
     
 
  
