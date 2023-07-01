@@ -1,0 +1,20 @@
+oops:
+4 piller concept
+
+encpasulation
+    class object constructor 
+abstraction
+polymorphism
+    overloading overloading
+inheritance
+
+class : class is a blue print of object, class is group of data member
+and member function
+
+object: object is a real world entity of class
+
+
+class     object
+vehicle   car
+fruit     mango
+school    student

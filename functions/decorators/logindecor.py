@@ -1,5 +1,5 @@
 user ={"name":"admin","password":"admin"}
-
+print(user.get("name"))
 def loginRequired(func):
     
     def inner(name,email):
