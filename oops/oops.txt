@@ -18,3 +18,20 @@ class     object
 vehicle   car
 fruit     mango
 school    student
+
+inheritance: inheritance is a process of aquiring the property of one class
+
+single inheritance
+multilevel inheritance
+multiple inheritance
+
+
+                a
+            b      c
+
+                x    y
+                   p     
+
+
+hierachical inheritance
+hybrid inheritance
