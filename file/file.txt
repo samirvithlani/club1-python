@@ -1,0 +1,7 @@
+read mode r
+write mode w
+append mode a
+read and write mode r+
+write and read mode w+
+append and read mode a+
+'''
