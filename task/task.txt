@@ -1,0 +1,10 @@
+upper case and lower case..
+repter char count  i  count()
+last indexof
+
+
+
+
+string palindrom name find....
+raam
+racecar
