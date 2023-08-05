@@ -1,0 +1,9 @@
+error                        exception
+compilation....              run time...
+;
+inden   error                  due logical , syntax , semantic 10/ 0
+solve...                    contininues programme flow stop... handle...
+
+how to handle exception
+try
+except
